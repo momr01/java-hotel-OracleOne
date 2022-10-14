@@ -27,7 +27,7 @@ Al momento de clonar el repositorio, no olviden recargar para que Maven pueda in
 ## Ahora veamos la app en acción:
 
 ### Gif
-![proyectoGif]()
+![proyectoGif](https://github.com/momr01/java-hotel-OracleOne/blob/main/src/main/java/ar/com/momr/view/imagenes/proyecto-hotel-gif.gif)
 
 
 ### Video de Youtube
